@@ -8,9 +8,6 @@ iPhone上的摇一摇实现很简单。具体参考下面的代码或者下载De
 
 
 ## 代码 Code
-
-![image](https://github.com/LeoiOS/ShakeDemo/blob/master/tipImage.png)
-
 * 在需要响应摇一摇的controller中，设置`canBecomeFirstResponder`：
 	```objc
 	- (BOOL)canBecomeFirstResponder {
@@ -49,6 +46,8 @@ iPhone上的摇一摇实现很简单。具体参考下面的代码或者下载De
 	    NSLog(@"摇动取消");
 	}
 	```
+* 模拟器调试技巧：
+![image](https://github.com/LeoiOS/ShakeDemo/blob/master/tipImage.png)
 
 
 ## 联系 Support
