@@ -47,6 +47,7 @@ iPhone上的摇一摇实现很简单。具体参考下面的代码或者下载De
 	}
 	```
 * 模拟器调试技巧：
+
 ![image](https://github.com/LeoiOS/ShakeDemo/blob/master/tipImage.png)
 
 
