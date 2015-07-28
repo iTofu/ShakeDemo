@@ -1,6 +1,7 @@
 ## ShakeDemo
 摇一摇示例代码。
 
+![image](https://github.com/LeoiOS/ShakeDemo/blob/master/tipImage.png)
 
 ## 前言 Foreword
 iPhone上的摇一摇实现很简单。具体参考下面的代码或者下载Demo试一下。
